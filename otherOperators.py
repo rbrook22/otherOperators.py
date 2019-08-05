@@ -8,3 +8,8 @@ print("I will be printing the numbers from range 1-11 starting at 4")
 for num in range(4,11):
     print(num)
 
+#Printing using range, start, and step position
+print("I'll print the numbers in range to 11, starting at 2, with a step size of 2")
+for num in range(2,11,2):
+    print(num)
+
