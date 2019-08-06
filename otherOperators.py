@@ -13,3 +13,14 @@ print("I'll print the numbers in range to 11, starting at 2, with a step size of
 for num in range(2,11,2):
     print(num)
 
+#Using the min built in function
+
+print('This is the minimum age of someone in my family:')
+myList = [30, 33, 60, 62]
+print(min(myList))
+
+#Using the max built in function
+
+print('This is the maximum age of someone in my family:')
+print(max(myList))
+
